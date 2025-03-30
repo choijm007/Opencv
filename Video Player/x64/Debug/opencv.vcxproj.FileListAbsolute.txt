@@ -1,0 +1,3 @@
+C:\Users\최재민\source\repos\opencv\x64\Debug\opencv.exe
+C:\Users\최재민\source\repos\심전실\HW1\x64\Debug\HW1.exe
+C:\Users\최재민\source\repos\심전실\2020203037_최재민_HW1\HW1\x64\Debug\HW1.exe
